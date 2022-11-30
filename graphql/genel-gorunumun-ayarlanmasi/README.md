@@ -1,1 +1,0 @@
-genel-gorunumun-ayarlanmasi

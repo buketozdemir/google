@@ -1,1 +1,0 @@
-post-modelinin-olusturulmasipost-sayisini-gercek-zamanli-gostermek-use-subscription

@@ -1,1 +1,0 @@
-# Uygulama 5

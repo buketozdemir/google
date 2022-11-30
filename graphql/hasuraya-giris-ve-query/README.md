@@ -1,1 +1,0 @@
-hasuraya-giris-ve-query

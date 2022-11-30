@@ -1,1 +1,0 @@
-hasura-jwt-authentication-login

@@ -1,1 +1,0 @@
-oylamalarin-gercek-zamanli-listelenmesi

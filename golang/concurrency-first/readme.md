@@ -1,1 +1,0 @@
-# Concurrency Bölüm 1 

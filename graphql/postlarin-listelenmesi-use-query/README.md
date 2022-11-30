@@ -1,1 +1,0 @@
-postlarin-listelenmesi-use-query

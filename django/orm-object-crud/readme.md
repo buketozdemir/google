@@ -1,1 +1,0 @@
-# ORM-Object/ CRUD Operasyonları

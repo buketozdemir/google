@@ -1,1 +1,0 @@
-hasura-kurulumu-ve-db-yapisinin-olusturulmasi

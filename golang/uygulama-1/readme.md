@@ -1,2 +1,0 @@
-# Uygulama 1
-

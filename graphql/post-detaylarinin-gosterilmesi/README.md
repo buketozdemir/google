@@ -1,1 +1,0 @@
-post-detaylarinin-gosterilmesi

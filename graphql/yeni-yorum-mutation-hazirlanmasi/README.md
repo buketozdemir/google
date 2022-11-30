@@ -1,1 +1,0 @@
-yeni-yorum-mutation-hazirlanmasi

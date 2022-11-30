@@ -1,1 +1,0 @@
-hasura-docker-yapılandırılması

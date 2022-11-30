@@ -1,1 +1,0 @@
-# UITableView ile Verileri Listeleme #

@@ -1,1 +1,0 @@
-short-description-field-tanimlanmasi

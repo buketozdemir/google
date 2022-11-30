@@ -1,1 +1,0 @@
-oylama-detay-ekraninin-hazirlanmasi-1

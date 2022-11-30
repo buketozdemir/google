@@ -1,1 +1,0 @@
-iliskisel-ifadelerde-argumanlar
